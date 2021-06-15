@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.headerdark {
+    
+    display: flex;
+    flex-direction: row ;
+
+      
+      
+
+    background-color: #131921;
+    color: white;
+}
+
+.{
+    display: flex;
+}
+
+
+
+
+
+
+
+.logo img{
+    width: 180px;
+    height: auto;
+
+}
+.flag img{
+    width: 40px;
+    height:auto;
+}
+
+.headerblue {
+    background-color:#232F3F ;
+    color:white;
+}
